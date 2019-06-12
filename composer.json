@@ -1,5 +1,5 @@
 {
-    "name" : "sproutwp/sprout_privileges",
+    "name" : "sproutwp/SproutServices",
     "description" : "A privileges package that deals with checks for authorization for different purposes, as used by Sprout Framework.",
     "version" : "1.0.0-dev",
     "keywords" : [
