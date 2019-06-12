@@ -4,7 +4,7 @@
  * @subpackage SproutPrivileges
  * @since 1.0.0
  */
-namespace SproutPrivileges;
+namespace Sprout\SproutPrivileges;
 
 /**
  * Class that contains methods relating to user privileges.
